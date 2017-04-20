@@ -51,3 +51,7 @@ an existing pre-compiled theme, remove the styles.css file in the theme director
 When using the runtime compiler, running the application in the "run" mode 
 (rather than in "debug" mode) can speed up consecutive theme compilations
 significantly.
+
+CLA
+---
+Vaadin CLA is required.
